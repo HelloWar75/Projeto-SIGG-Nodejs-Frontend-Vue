@@ -1,25 +1,9 @@
-# sigg-node
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
 # Projeto-SIGG-Nodejs-Frontend-Vue
+
+Após baixar o projeto digite o seguinte comando para instalar os modulos:
+npm install
+
+e para rodar o servidor:
+npm run serve
+
+o api server precisa estar rodando na URL: http://127.0.0.1:8000/
