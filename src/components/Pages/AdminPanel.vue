@@ -1,12 +1,12 @@
 <template>
-    <div id="app">
-        <router-view></router-view>
+    <div class="container">
+        Admin Panel
     </div>
 </template>
 
 <script>
     export default {
-        name: "App"
+        name: "AdminPanel"
     }
 </script>
 
